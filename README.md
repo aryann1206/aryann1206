@@ -11,8 +11,10 @@
 ---
 
 ### 🛠 Tech Stack
+![C++](https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
@@ -35,6 +37,6 @@
 ---
 
 ### 🔗 Connect With Me
-- 💼 LinkedIn: coming soon
+- 💼 LinkedIn: https://www.linkedin.com/in/aryann1206/
 - 🌐 Portfolio: coming soon
-- 📧 Email: your-email@example.com
+- 📧 Email: aryan.r200611@gmail.com
