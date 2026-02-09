@@ -1,0 +1,40 @@
+<h1 align="center">Hi 👋, I'm Aryan</h1>
+<h3 align="center">Full-Stack Developer | Backend Enthusiast</h3>
+
+---
+
+### 🚀 About Me
+- 💻 I build scalable web applications
+- 🧠 Learning Backend, DevOps & System Design
+- 🔥 Passionate about problem-solving & clean code
+
+---
+
+### 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-black?style=flat&logo=prisma)
+
+---
+
+### 📌 Featured Projects
+- **EduNest** – REST API for course platform (JWT, Prisma, PostgreSQL)
+- **Auth API** – Secure authentication system
+- **Portfolio Website** – Personal portfolio & projects
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryann1206&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryann1206&layout=compact&theme=tokyonight)
+
+---
+
+### 🔗 Connect With Me
+- 💼 LinkedIn: coming soon
+- 🌐 Portfolio: coming soon
+- 📧 Email: your-email@example.com
