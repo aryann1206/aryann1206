@@ -19,6 +19,8 @@
 ![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=flat&logo=prisma)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-black?style=flat&logo=mongoose)
 
 ---
 
