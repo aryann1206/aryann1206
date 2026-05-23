@@ -27,7 +27,7 @@
 ### 📌 Featured Projects
 - **EduNest** – REST API for course platform (JWT, Prisma, PostgreSQL)
 - **Auth API** – Secure authentication system
-- **Portfolio Website** – Personal portfolio & projects
+-
 
 ---
 
@@ -41,4 +41,4 @@
 ### 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/aryann1206/
 - 🌐 Portfolio: coming soon
-- 📧 Email: aryan.r200611@gmail.com
+- 📧 Email: aryanncodes@gmail.com
